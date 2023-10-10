@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Tu Nombre - Página Personal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: black;
+            text-align: center;
+        }
+        header {
+            background-color: blue;
+            color: white;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tu Nombre</h1>
+    </header>
+    <div class="container">
+        <h2>Sobre Mí</h2>
+        <p>¡Hola! Soy [Tu Nombre], y esta es mi página web personal. Aquí encontrarás información sobre mí y mis intereses.</p>
+
+        <h2>Información Personal</h2>
+        <p>¡Bienvenido a mi página! Soy [Tu Nombre], un apasionado de [tus intereses] y [algo más que quieras destacar]. Me encanta [tus pasatiempos] y [lo que sea importante para ti].</p>
+
+        <h2>Imágenes</h2>
+        <img src="imagen1.jpg" alt="Imagen 1">
+        <img src="imagen2.jpg" alt="Imagen 2">
+        
+        <h2>Contacto</h2>
+        <p>Puedes encontrarme en las redes sociales:</p>
+        <a href="https://www.facebook.com/tunombre" target="_blank">Facebook</a><br>
+        <a href="https://www.twitter.com/tunombre" target="_blank">Twitter</a>
+    </div>
+</body>
+</html>
